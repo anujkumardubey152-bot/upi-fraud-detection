@@ -4,7 +4,7 @@ import joblib
 
 
 # Load model
-model = joblib.load("upi_fraud_model.pkl")
+model = joblib.load("upi_fraud_model(6).pkl")
 
 
 # Page configuration
